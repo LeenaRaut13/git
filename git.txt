@@ -1,0 +1,7 @@
+git init
+git status
+git add
+git commit -m "I'm Learning devops"
+git checkout -b Dev
+git remote add origin https://github.com/LeenaRaut13/git.git
+git push origin branch name
